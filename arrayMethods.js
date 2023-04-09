@@ -1,5 +1,6 @@
 // Gebruik array methoden voor alle onderstaande opdrachten
 // Test "First commit"
+// Test "Commit feature/uitwerkingen"
 
 const inventors = [
   { first: 'Albert', last: 'Einstein', year: 1879, passed: 1955 },
